@@ -1,0 +1,5 @@
+The most challenging part was finding how to do the pull request; I think 
+because I was on my new branch, I didn't have the yellow banner described
+in the link in the HW.
+I learned how to fork a repository, which could be a great way to have a 
+starting point for developing my own coding pipelines.
